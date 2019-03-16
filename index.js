@@ -2,12 +2,15 @@
 
 function distanceFromHqInBlocks(distance) {
   if (distance < 42 ) {
-    return 42-distance;
-  { else {
+    return 42 - distance;
+  } else {
       return distance - 42;
   }
   
 }
+
+
+
 
 /*function distanceFromHqInFeet (someValue) {
   distanceFromHqInBlocks(someValue);
