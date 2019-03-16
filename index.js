@@ -9,11 +9,10 @@ function distanceFromHqInBlocks(distance) {
 	}
 }
 
-
-
-
-
-
-/*function distanceFromHqInFeet (someValue) {
+function distanceFromHqInFeet (distance) {
+  
+  
+  
+  
   distanceFromHqInBlocks(someValue);
-}*/
+}
