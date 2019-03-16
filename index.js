@@ -3,3 +3,5 @@
 function distanceFromHqInBlocks (someValue){
   
 }
+
+function distanceFromHqInFeet (someValue) {
