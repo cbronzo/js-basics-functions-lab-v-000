@@ -3,6 +3,8 @@
 function distanceFromHqInBlocks(distance) {
   if (distance < 42 ) {
     return 42-distance;
+  } else {
+    return distance - 42
   }
   
 }
