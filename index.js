@@ -16,4 +16,4 @@ function distanceFromHqInBlocks(distance) {
 
 /*function distanceFromHqInFeet (someValue) {
   distanceFromHqInBlocks(someValue);
-}
+}*/
