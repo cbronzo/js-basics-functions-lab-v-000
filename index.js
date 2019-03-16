@@ -23,6 +23,8 @@ function distanceTravelledInFeet(block1, block2){
 
 function calculatesFarePrice(block1, block2){
   distance =  distanceTravelledInFeet(block1, block2)
-  if (distance <)
+  if (distance < 400){
+    return 0
+  }
   
 }
